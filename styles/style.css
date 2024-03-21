@@ -1,0 +1,26 @@
+main{
+    width: 920px;
+    margin: 0 auto;
+}
+header{
+    width: 100%;
+    height: 100px;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.left-a{
+    margin-right: 100px;
+}
+h1{
+    font-size: 1.8em;
+}
+footer {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    border-top: 2px solid;
+    text-align: center;
+    background-color: #eeeeee;
+}
